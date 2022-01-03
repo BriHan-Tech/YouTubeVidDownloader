@@ -18,8 +18,8 @@ Here is our [CHANGELOG](./CHANGELOG.md)!
 
 ## Installation (for Developers)
 1. Install Python
-2. Set up a venv
-3. Clone the Project
+2. Fork the Project. [Learn More](https://www.youtube.com/watch?v=yzeVMecydCE&t=1s)
+3. Set up a venv
 4. ```pip3 install -r requirements.txt```
 5. To run the project: ```python3 main.py```
 
